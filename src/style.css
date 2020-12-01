@@ -1,4 +1,12 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('./Pacifico.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
 .hello {
     color: red;
+    font-family: 'Pacifico';
     background: url('./John_1.png');
-  }
+}
