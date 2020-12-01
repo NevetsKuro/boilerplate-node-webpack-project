@@ -8,5 +8,6 @@
 .hello {
     color: red;
     font-family: 'Pacifico';
-    background: url('./John_1.png');
+    margin: 0 auto;
+    /* background: url('./John_1.png'); */
 }
