@@ -7,7 +7,7 @@ function component() {
 
     // Lodash, currently included via a script, is required for this line to work
     // Lodash, imported by cli
-    element.innerHTML = _.join(['Hello', 'John', '<br/>'], ' ');
+    element.innerHTML = _.join(['Hello', 'John Doe', '<br/>'], ' ');
     element.classList.add('hello');
 
     const myicon = new Image();
